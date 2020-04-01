@@ -10,7 +10,7 @@ end
 
 magic = ["magic1", "magic2", "magic3"]
 
-def add_element_to_end_of_array(magic, [0])
+def add_element_to_end_of_array(magic, 0)
   magic << [0]
 end
 
