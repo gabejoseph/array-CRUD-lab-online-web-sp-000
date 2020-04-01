@@ -8,9 +8,8 @@ def create_an_array
   return four
 end
 
-magic = ["magic1", "magic2", "magic3"]
-
 def add_element_to_end_of_array(magic, [0])
+  magic = ["magic1", "magic2", "magic3"]
   magic.push(0)
 end
 
