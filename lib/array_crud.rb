@@ -1,13 +1,17 @@
 def create_an_empty_array
-  
+  empty = []
+  return empty  
 end
 
 def create_an_array
-  
+  four = ["one", "two", "three", "four"]
+  return four
 end
 
-def add_element_to_end_of_array(array, element)
-  
+
+def add_element_to_end_of_array(magic, [0]
+  magic = ["magic1", "magic2", "magic3"]
+  magic.push([0])
 end
 
 def add_element_to_start_of_array(array, element)
